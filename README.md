@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Paulinne Cintra 😁
+## Bem-vindo(a) ao perfil de Paulinne Cintra 😊
  <div>
    <a href="https://github.com/paulinne-cintra">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulinne-cintra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
